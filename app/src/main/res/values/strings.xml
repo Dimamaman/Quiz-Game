@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OfflineQuiz</string>
+    <string name="first_name">Name</string>
+    <string name="game">Play</string>
+    <string name="choose_materik">Choose Continent</string>
+    <string name="amerika">Amerika</string>
+    <string name="afrika">Afrika</string>
+    <string name="europe">Europe</string>
+    <string name="asia">Asia</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="quiz_time">Quiz Time</string>
+    <string name="fill_in_th_rows">Fill in the rows</string>
+    <string name="continue_text">Continue</string>
+    <string name="finish_text">Finish</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="congratulation">Congratulations %s</string>
+    <string name="score_text">Your Score: %d/10</string>
+    <string name="submit">Submit</string>
+    <string name="currentQuestion">0/%d</string>
+    <string name="user_score">Your scores: %d / 5</string>
+    <string name="_00_55">00:55</string>
+
+
+</resources>
